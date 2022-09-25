@@ -10,7 +10,7 @@
         "collapsed": false,
         "containerId": null,
         "description": {
-            "value": ""
+            "value": "<p>A belt pouch holds up to four items of light Bulk.</p>"
         },
         "equippedBulk": {
             "value": ""
@@ -32,9 +32,11 @@
         },
         "preciousMaterialGrade": {
             "value": ""
-        },
+         },
         "price": {
-            "value": {}
+            "value": {
+                "cp": 4
+            }
         },
         "quantity": 1,
         "rules": [],

@@ -10,7 +10,7 @@
         "collapsed": false,
         "containerId": null,
         "description": {
-            "value": ""
+            "value": "<p>A satchel can hold up to 2 Bulk worth of items. If you are carrying or stowing a satchel rather than wearing it over your shoulder, it counts as light Bulk instead of negligible.</p>"
         },
         "equippedBulk": {
             "value": "0"
@@ -34,7 +34,9 @@
             "value": ""
         },
         "price": {
-            "value": {}
+            "value": {
+                "sp": 1
+            }
         },
         "quantity": 1,
         "rules": [],
